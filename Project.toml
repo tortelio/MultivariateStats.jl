@@ -1,10 +1,9 @@
 name = "MultivariateStats"
 uuid = "9a4da972-b025-11e8-0eaa-35352734416b"
-license = "MIT"
-repository = "https://github.com/JuliaStats/MultivariateStats.jl.git"
-desc = "A Julia package for multivariate statistics and data analysis"
 keywords = ["multivariate statistics", "dimensionality reduction"]
-
+license = "MIT"
+desc = "A Julia package for multivariate statistics and data analysis"
+repository = "https://github.com/JuliaStats/MultivariateStats.jl.git"
 version = "0.6.0"
 
 [deps]
