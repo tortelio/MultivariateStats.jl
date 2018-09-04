@@ -1,5 +1,5 @@
 name = "MultivariateStats"
-uuid = "6f286f6a-111f-5878-ab1e-185364afe411"
+uuid = "9a4da972-b025-11e8-0eaa-35352734416b"
 license = "MIT"
 repository = "https://github.com/JuliaStats/MultivariateStats.jl.git"
 desc = "A Julia package for multivariate statistics and data analysis"
